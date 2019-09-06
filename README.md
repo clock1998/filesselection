@@ -1,6 +1,8 @@
 # filesselection
  
 Hello, this is a python script to clean you Downloads folder on Windows.
+The script will monitor the specific directory. When there is a new file created,
+the file will be moved to the folder that correspond to it extension.
 
 # To run
 
